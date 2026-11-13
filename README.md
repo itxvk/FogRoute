@@ -80,10 +80,13 @@ It is a static site, so any static host works.
 
 ```
 fogroute/
-├── index.html      # app (HTML, CSS and JS inline)
+├── index.html    # app (HTML, CSS and JS inline)
+├── favicon.ico
 ├── README.md
 ├── PRD.md          # product requirements
 └── TRD.md          # technical requirements
+ 
+
 ```
 
 Inside the script, the main parts are:
